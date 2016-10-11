@@ -3,4 +3,5 @@ Attendees
 Alex Mitchell
 Bill Gates
 Steve Jobs
+Zebediah Figura
 Cameron Chen
